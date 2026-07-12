@@ -29,16 +29,10 @@ Ingeniero en Tecnologías de la Información | Redes y Telecomunicaciones | Clou
 </p>
 
 ---
-
-<h1><b>Hi there, I'm Nabil</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>  
-
-<img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 3.5%> **About me**
+<img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 3.5%> **Sobre mí**
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-
-## 👨‍💻 Sobre mí
-
 - Soy Ingeniero en Tecnologías de la Información.
 - Me desempeño en las áreas de Redes, Telecomunicaciones e Infraestructura TI.
 - Tengo experiencia en conectividad empresarial, administración de servicios tecnológicos y soporte a entornos críticos.
@@ -135,7 +129,7 @@ Ingeniero en Tecnologías de la Información | Redes y Telecomunicaciones | Clou
 
 ## You can contact me here  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabil-abubakar-956519323/)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubakar.nabil.210@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-steven-rodr%C3%ADguez-cede%C3%B1o-08985b179/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryanroced47@gmail.com)
 
 ---
