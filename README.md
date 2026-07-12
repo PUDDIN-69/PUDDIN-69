@@ -30,228 +30,112 @@ Ingeniero en Tecnologías de la Información | Redes y Telecomunicaciones | Clou
 
 ---
 
-# 👨‍💻 Sobre Mí
+<h1><b>Hi there, I'm Nabil</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>  
 
-💼 Ingeniero en Tecnologías de la Información.
-
-🌐 Experiencia en Redes, Telecomunicaciones e Infraestructura Tecnológica.
-
-☁️ Conocimientos en AWS, Azure y Cloud Computing.
-
-🔐 Interés en Ciberseguridad, DevSecOps y Gobierno de TI.
-
-💻 Desarrollo e Integración de APIs utilizando JavaScript y Python.
-
-📊 Experiencia en Bases de Datos, Power BI y Analítica de Datos.
-
-🚀 Actualmente cursando una Maestría en Dirección y Gestión de Tecnologías de la Información.
-
----
-
-# 🚀 Habilidades Técnicas
-
-<table>
-<tr>
-<td valign="top" width="50%">
-
-### 🌐 Redes y Telecomunicaciones
-
-<img src="https://skillicons.dev/icons?i=linux,docker,aws,azure" />
+<img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 3.5%> **About me**
+<img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
 
-✔ LAN / WAN
-
-✔ VLAN
-
-✔ MPLS
-
-✔ SD-WAN
-
-✔ QoS
-
-✔ NAT / DNAT
-
-✔ ACL
-
-✔ Routing & Switching
-
-✔ VoIP
-
-✔ Cloud PBX
-
-✔ Cisco Networking
-
-✔ Troubleshooting
-
-✔ SSH / PuTTY
-
-</td>
-
-<td valign="top" width="50%">
-
-### 💻 Desarrollo
-
-<img src="https://skillicons.dev/icons?i=java,js,python,php,cpp" />
-
-<br><br>
-
-✔ REST APIs
-
-✔ API Integrations
-
-✔ Backend Development
-
-✔ Automation
-
-✔ Git
-
-✔ GitHub
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-### 🗄️ Bases de Datos
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
-
-<br><br>
-
-✔ PostgreSQL
-
-✔ MySQL
-
-✔ SQL Server
-
-✔ Database Administration
-
-✔ Query Optimization
-
-</td>
-
-<td valign="top">
-
-### 🛠️ Herramientas
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman" />
-
-<br><br>
-
-✔ Linux Administration
-
-✔ Data Center
-
-✔ Power BI
-
-✔ Scrum
-
-✔ Kanban
-
-✔ ITIL v4
-
-✔ COBIT
-
-✔ VAL IT
-
-</td>
-</tr>
-</table>
-
----
-
-# ☁️ Cloud & DevSecOps
-
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,linux" />
-
-- Cloud Computing
-- Infrastructure Management
-- DevSecOps
-- Cybersecurity
-- Governance IT
-- Continuous Improvement
-
----
-
-# 📜 Certificaciones y Formación
-
-🎓 Ingeniería en Tecnologías de la Información y Comunicación (TIC)
-
-🎓 Maestría en Dirección y Gestión de Tecnologías de la Información (En curso)
-
-📚 CCNA / CCNP
-
-📚 Linux Administration
-
-📚 Data Center
-
-📚 ITIL v4
-
-📚 COBIT
-
-📚 VAL IT
-
-📚 Cybersecurity
-
-📚 Big Data
-
-📚 Inteligencia Artificial
-
-📚 Full Stack Development
-
-📚 SQL Server Administration
-
-📚 IP Telephony
-
-📚 APIs & Integrations
-
----
-
-# 📊 GitHub Stats
-
+## 👨‍💻 Sobre mí
+
+- Soy Ingeniero en Tecnologías de la Información.
+- Me desempeño en las áreas de Redes, Telecomunicaciones e Infraestructura TI.
+- Tengo experiencia en conectividad empresarial, administración de servicios tecnológicos y soporte a entornos críticos.
+- Me apasiona utilizar la tecnología para resolver problemas y optimizar procesos.
+- Actualmente estoy aprendiendo:
+  - DevSecOps
+  - Arquitectura Cloud (AWS y Azure)
+  - Inteligencia Artificial
+  - Arquitectura de Microservicios
+- Fuera del ámbito tecnológico, disfruto 🎮 los videojuegos, 📚 la lectura, asistir a eventos tecnológicos y seguir aprendiendo nuevas tecnologías.
+
+<br>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3.5%>&nbsp; ***Skills***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br>
+<p align="center" style="width:100%;">
+  <table style="width:100%; border:none; border-collapse:collapse;">
+    <tr>
+      <td style="width:50%; vertical-align:top; text-align:left; border:none;">
+        <h6><b>Languages & Syntaxes:</b></h6>
+        <p>
+          <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=python" alt="Python" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />&nbsp;
+        </p>
+        <h6><b>For Fun:</b></h6>
+        <p>
+          <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=rust" alt="Rust" />&nbsp;
+        </p>
+        <h6><b>Frontend Development:</b></h6>
+        <p>
+          <img src="https://skillicons.dev/icons?i=react" alt="React" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=vue" alt="Vue" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=vite" alt="Vite" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=html" alt="HTML" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=css" alt="CSS" />&nbsp;
+        </p>
+        <h6><b>Backend Development:</b></h6>
+        <p>
+          <img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=express" alt="Express" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" />&nbsp;
+        </p>
+      </td>
+      <td style="width:50%; vertical-align:top; text-align:right; border:none;">
+        <h6><b>MLOps & Infrastructure:</b></h6>
+        <p>
+          <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" />&nbsp;
+        </p>
+        <h6><b>Databases & Message Brokers:</b></h6>
+        <p>
+          <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=redis" alt="Redis" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" />&nbsp;
+          <img src="https://cdn.simpleicons.org/rabbitmq/FF6600" alt="RabbitMQ" width="50" height="50" />&nbsp;
+        </p>
+        <h6><b>Development Tools:</b></h6>
+        <p>
+          <img src="https://skillicons.dev/icons?i=git" alt="Git" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=prisma" alt="Prisma" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=npm" alt="npm" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=jest" alt="Jest" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />&nbsp;
+          <img src="https://skillicons.dev/icons?i=idea" />
+          <img src="https://skillicons.dev/icons?i=linux,docker,aws,azure" />
+        </p>
+      </td>
+    </tr>
+  </table>
+</p>
+<br>
+
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PUDDIN-69&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PUDDIN-69&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Nabil201-ctrl&theme=tokyonight&hide_border=true" height="180em" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nabil201-ctrl&theme=tokyonight" />
 </p>
 
----
 
-# 🔥 GitHub Streak
+## You can contact me here  
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=PUDDIN-69&theme=tokyonight&hide_border=true"/>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nabil-abubakar-956519323/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abubakar.nabil.210@gmail.com)
 
 ---
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=PUDDIN-69&theme=tokyonight&no-frame=true&margin-w=10"/>
-</p>
-
----
-
-# 🌍 Idiomas
-
-🇪🇸 Español — Nativo
-
-🇬🇧 Inglés — B1
-
----
-
-# 📫 Contacto
-
-<p align="center">
-<a href="https://github.com/PUDDIN-69">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-</p>
-
----
-
-<p align="center">
-⭐ Gracias por visitar mi perfil ⭐
-</p>
