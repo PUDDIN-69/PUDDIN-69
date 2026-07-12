@@ -34,20 +34,20 @@ Ingeniero en Tecnologías de la Información | Redes y Telecomunicaciones | Clou
 - Me desempeño en las áreas de Redes, Telecomunicaciones e Infraestructura TI.
 - Tengo experiencia en conectividad empresarial, administración de servicios tecnológicos y soporte a entornos críticos.
 - Me apasiona utilizar la tecnología para resolver problemas y optimizar procesos.
-- Actualmente estoy aprendiendo:
-  - DevSecOps
-  - Arquitectura Cloud (AWS y Azure)
-  - Inteligencia Artificial
-  - Arquitectura de Microservicios
+Actualmente estoy aprendiendo:
+ - 🔐 Ciberseguridad
+- 🤖 Inteligencia Artificial aplicada a TI
+- 📊 Observabilidad y Monitoreo
+- ⚙️ Automatización de Procesos
 - Fuera del ámbito tecnológico, disfruto 🎮 los videojuegos, 📚 la lectura, asistir a eventos tecnológicos y seguir aprendiendo nuevas tecnologías.
-<br>
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3.5%>&nbsp; ***Skills***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
+ <br>
+   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3.5%>&nbsp;Habilidades
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <br>
 <p align="center" style="width:100%;">
   <table style="width:100%; border:none; border-collapse:collapse;">
     <tr>
-      <td style="width:50%; vertical-align:top; text-align:left; border:none;">
+      <td style="width:60%; vertical-align:top; text-align:left; border:none;">
         <h6><b>Languages & Syntaxes:</b></h6>
         <p>
           <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />&nbsp;
@@ -103,8 +103,10 @@ Ingeniero en Tecnologías de la Información | Redes y Telecomunicaciones | Clou
           <img src="https://skillicons.dev/icons?i=postman" alt="Postman" />&nbsp;
           <img src="https://skillicons.dev/icons?i=npm" alt="npm" />&nbsp;
           <img src="https://skillicons.dev/icons?i=jest" alt="Jest" />&nbsp;
+        </p>
+           <p>
+          <img src="https://skillicons.dev/icons?i=linux,idea,aws,azure" />&nbsp;
           <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=linux,idea,aws,azure" />
         </p>
       </td>
     </tr>
