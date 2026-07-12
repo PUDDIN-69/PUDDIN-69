@@ -29,7 +29,6 @@ Ingeniero en Tecnologías de la Información | Redes y Telecomunicaciones | Clou
 ---
 <img src = "https://i.pinimg.com/originals/3f/7e/4e/3f7e4eff7c96e9fe4b8b4b1ff3f7bdb5.gif" width = 3.5%> **Sobre mí**
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
-
 <br><br>
 - Soy Ingeniero en Tecnologías de la Información.
 - Me desempeño en las áreas de Redes, Telecomunicaciones e Infraestructura TI.
@@ -41,9 +40,7 @@ Ingeniero en Tecnologías de la Información | Redes y Telecomunicaciones | Clou
   - Inteligencia Artificial
   - Arquitectura de Microservicios
 - Fuera del ámbito tecnológico, disfruto 🎮 los videojuegos, 📚 la lectura, asistir a eventos tecnológicos y seguir aprendiendo nuevas tecnologías.
-
 <br>
-
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 3.5%>&nbsp; ***Skills***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
