@@ -109,8 +109,7 @@ Ingeniero en Tecnologías de la Información | Redes y Telecomunicaciones | Clou
           <img src="https://skillicons.dev/icons?i=npm" alt="npm" />&nbsp;
           <img src="https://skillicons.dev/icons?i=jest" alt="Jest" />&nbsp;
           <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />&nbsp;
-          <img src="https://skillicons.dev/icons?i=idea" />
-          <img src="https://skillicons.dev/icons?i=linux,docker,aws,azure" />
+          <img src="https://skillicons.dev/icons?i=linux,idea,aws,azure" />
         </p>
       </td>
     </tr>
@@ -121,9 +120,9 @@ Ingeniero en Tecnologías de la Información | Redes y Telecomunicaciones | Clou
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Nabil201-ctrl&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://streak-stats.demolab.com?user=PUDDIN-69&theme=tokyonight&hide_border=true" height="180em" />
   <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nabil201-ctrl&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PUDDIN-69&theme=tokyonight" />
 </p>
 
 
