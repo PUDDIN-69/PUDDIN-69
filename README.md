@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">👋 Hola, soy PUDDIN-69</h1>
+<h1 align="center">👋 Hola, soy Steven Rodriguez</h1>
 
 <h3 align="center">
 Ingeniero en Tecnologías de la Información | Redes y Telecomunicaciones | Cloud | DevSecOps
